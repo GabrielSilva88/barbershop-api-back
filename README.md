@@ -1,2 +1,3 @@
-# barber-shop-api
-# barbershop-ui
+# BarberShoperApi
+
+Backend, para projeto Dio entregar final hoje.
